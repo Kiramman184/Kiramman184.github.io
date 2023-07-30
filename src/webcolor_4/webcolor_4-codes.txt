@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #f9fbfb (RGB: 249, 251, 251)
+    Background: #0f181a (RGB: 15, 24, 26)
+    Primary: #566895 (RGB: 86, 104, 149)
+    Secondary: #1c182a (RGB: 28, 24, 42)
+    Accent: #7567a8 (RGB: 117, 103, 168)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=f9fbfb-0f181a-566895-1c182a-7567a8
+
+Thanks for using RealtimeColors.com!

@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #f3dde9 (RGB: 243, 221, 233)
+    Background: #000000 (RGB: 0, 0, 0)
+    Primary: #873134 (RGB: 135, 49, 52)
+    Secondary: #2d1e10 (RGB: 45, 30, 16)
+    Accent: #be814b (RGB: 190, 129, 75)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=f3dde9-000000-873134-2d1e10-be814b
+
+Thanks for using RealtimeColors.com!

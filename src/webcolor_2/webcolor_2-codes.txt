@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #e5f4fb (RGB: 229, 244, 251)
+    Background: #010609 (RGB: 1, 6, 9)
+    Primary: #ae4b1e (RGB: 174, 75, 30)
+    Secondary: #1a1604 (RGB: 26, 22, 4)
+    Accent: #c92241 (RGB: 201, 34, 65)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=e5f4fb-010609-ae4b1e-1a1604-c92241
+
+Thanks for using RealtimeColors.com!
